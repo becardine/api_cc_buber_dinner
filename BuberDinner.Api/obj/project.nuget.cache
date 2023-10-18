@@ -1,10 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "XO23+JHh3MjfdczROkLK+De+vCE6JIKatDL51AUQG55aMxiLgb2IzVQMK+djvFKIuElljEWwpM1Bp25WvLEavw==",
+  "dgSpecHash": "VvbgcJpo0xoGVZa/pjW1knuIYq9KZ9PJvjXOAGxCZi3ePqFWnRQdvysjk7rlW02BuYlEr3mahyhSsOThg6fzbA==",
   "success": true,
   "projectFilePath": "/home/becardine/projects/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
   "expectedPackageFiles": [
-    "/home/becardine/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "/home/becardine/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/microsoft.extensions.configuration.binder/6.0.0/microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/microsoft.extensions.options.configurationextensions/6.0.0/microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.5.0/microsoft.identitymodel.jsonwebtokens.6.5.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/microsoft.identitymodel.logging/6.5.0/microsoft.identitymodel.logging.6.5.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/microsoft.identitymodel.tokens/6.5.0/microsoft.identitymodel.tokens.6.5.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/system.identitymodel.tokens.jwt/6.5.0/system.identitymodel.tokens.jwt.6.5.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/becardine/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -28,3 +28,7 @@
 /home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/BuberDinner.Application.pdb
 /home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/BuberDinner.Infrastructure.pdb
 /home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/BuberDinner.Domain.pdb
+/home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
