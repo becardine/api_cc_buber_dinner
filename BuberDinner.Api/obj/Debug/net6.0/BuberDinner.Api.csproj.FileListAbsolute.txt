@@ -37,3 +37,6 @@
 /home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/MediatR.Contracts.dll
 /home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Mapster.dll
+/home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Mapster.Core.dll
+/home/becardine/projects/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Mapster.DependencyInjection.dll
